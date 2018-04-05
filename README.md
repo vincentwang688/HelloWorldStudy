@@ -1,2 +1,1 @@
-# study.HelloWorld
-HelloWorld
+Record Android Technology Learning's Kernel Code.
